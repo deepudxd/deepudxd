@@ -43,7 +43,7 @@ Git • GitHub • VS Code
 
 | Project                   | Description                                            | Repo                                                                                                               |
 | ------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
-| Complaint Register System | A simple web app for complaint submission and tracking | [https://github.com/CorruptedPhysco/complain-register-v1](https://github.com/CorruptedPhysco/complain-register-v1) |
+| Complaint Register System | A simple web app for complaint submission and tracking | [https://github.com/CorruptedPhysco/complain-register-v1](https://github.com/deepudxd/College-FixIt-Final) |
 | Portfolio Website         | Personal developer portfolio (Work in Progress)        | WIP                                                                                                                |
 | Private Experiments       | Small experimental projects                            | —                                                                                                                  |
 
