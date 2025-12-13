@@ -62,6 +62,6 @@ Git • GitHub • VS Code
 
 **LinkedIn:** [Link](https://linkedin.com/in/deepak-dev-7713502a7)
 
-**GitHub:** [Link](https://github.com/CorruptedPhysco)
+**GitHub:** [Link](https://github.com/deepudxd)
 
 ---
