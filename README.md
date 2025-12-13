@@ -60,7 +60,7 @@ Git • GitHub • VS Code
 
 ## 🌐 Connect With Me
 
-**LinkedIn:** [Link](https://linkedin.com/in/deepak-dev-7713502a7)
+**LinkedIn:** [Link](https://www.linkedin.com/in/deepudxd/)
 
 **GitHub:** [Link](https://github.com/deepudxd)
 
