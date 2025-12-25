@@ -1,10 +1,10 @@
 
 # 🌿 Deepak Dev
 
-**Web Developer (Beginner–Intermediate) • CSE Student • Fast Learner**
+**Backend Developer (Beginner–Intermediate) • CSE Student • Fast Learner**
 
-I’m a first-year CSE student focusing on building clean and minimal web interfaces.
-Currently improving my JavaScript and C++ skills while exploring Flutter and full-stack development.
+I’m first-year CSE student from Kerala, India.
+Currently improving my JavaScript and C++ skills.
 
 ---
 
@@ -13,7 +13,6 @@ Currently improving my JavaScript and C++ skills while exploring Flutter and ful
 * B.Tech CSE (1st Year)
 * Learning: JavaScript, C++
 * Comfortable with: HTML, CSS, basic JavaScript, Python, basic C++
-* Exploring: Full-stack development, Flutter
 * Strength: Fast learner
 * Hobby: Gaming
 
@@ -29,10 +28,6 @@ HTML • CSS • JavaScript (Learning)
 
 Python • C++ (Learning)
 
-### Mobile
-
-Flutter (Beginner)
-
 ### Tools
 
 Git • GitHub • VS Code
@@ -43,18 +38,9 @@ Git • GitHub • VS Code
 
 | Project                   | Description                                            | Repo                                                                                                               |
 | ------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
-| Complaint Register System | A simple web app for complaint submission and tracking | [https://github.com/CorruptedPhysco/complain-register-v1](https://github.com/deepudxd/College-FixIt-Final) |
+| Complaint Register System | A simple web app for complaint submission and tracking | [Link](https://github.com/deepudxd/College-FixIt-Final) |
 | Portfolio Website         | Personal developer portfolio (Work in Progress)        | WIP                                                                                                                |
 | Private Experiments       | Small experimental projects                            | —                                                                                                                  |
-
----
-
-## 🎯 Goals
-
-* Learn full-stack development
-* Improve Flutter
-* Build more real-world projects
-* Become internship-ready
 
 ---
 
