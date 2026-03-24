@@ -39,7 +39,7 @@ Git • GitHub • VS Code
 | Project                   | Description                                            | Repo                                                                                                               |
 | ------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
 | Complaint Register System | A simple web app for complaint submission and tracking | [Link](https://github.com/deepudxd/College-FixIt-Final) |
-| Portfolio Website         | Personal developer portfolio (Work in Progress)        | WIP                                                                                                                |
+| Portfolio Website         | Personal developer portfolio (Work in Progress)        | [Link](https://deepudxd.github.io/portfolio/)  |                                                                                                               |
 | Private Experiments       | Small experimental projects                            | —                                                                                                                  |
 
 ---
