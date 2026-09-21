@@ -32,9 +32,6 @@ I enjoy turning ideas into working products and learning new technologies by bui
 
 `Firebase` `Supabase` `REST APIs`
 
-### Tools & Platforms
-
-`Git` `GitHub` `VS Code` `Docker` `Vercel` `Netlify` `Railway`
 
 ## Selected Projects
 
