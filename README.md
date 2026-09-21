@@ -1,53 +1,72 @@
+# Deepak Dev
 
-# 🌿 Deepak Dev
+**Full-Stack Developer | B.Tech CSE Student | Building Practical Software**
 
-**Backend Developer (Beginner–Intermediate) • CSE Student • Fast Learner**
+I’m a B.Tech Computer Science student from Kerala, India, focused on building web applications, backend systems, and developer tools.
 
-I’m first-year CSE student from Kerala, India.
-Currently improving my JavaScript and C++ skills.
+I enjoy turning ideas into working products and learning new technologies by building real projects.
 
----
+## About
 
-## 🌱 About Me
+- B.Tech Computer Science Engineering student
+- Interested in full-stack web development and backend engineering
+- Building and deploying real-world projects
+- Currently improving my JavaScript, TypeScript, React, and backend development skills
+- Interested in software engineering, automation, and AI
 
-* B.Tech CSE (1st Year)
-* Learning: JavaScript, C++
-* Comfortable with: HTML, CSS, basic JavaScript, Python, basic C++
-* Strength: Fast learner
-* Hobby: Gaming
+## Tech Stack
 
----
+### Languages
 
-## 🛠️ Tech Stack
+`Python` `JavaScript` `TypeScript` `C` `C++` `HTML` `CSS`
 
 ### Frontend
 
-HTML • CSS • JavaScript (Learning)
+`React` `Vite` `Tailwind CSS`
 
-### Programming
+### Backend
 
-Python • C++ (Learning)
+`Node.js` `Flask` `FastAPI`
 
-### Tools
+### Database & Services
 
-Git • GitHub • VS Code
+`Firebase` `Supabase` `REST APIs`
 
----
+### Tools & Platforms
 
-## ⭐ Featured Projects
+`Git` `GitHub` `VS Code` `Docker` `Vercel` `Netlify` `Railway`
 
-| Project                   | Description                                            | Repo                                                                                                               |
-| ------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
-| Complaint Register System | A simple web app for complaint submission and tracking | [Link](https://github.com/deepudxd/College-FixIt-Final) |
-| Portfolio Website         | Personal developer portfolio (Work in Progress)        | [Link](https://deepudxd.github.io/portfolio/)  |                                                                                                               |
-| Private Experiments       | Small experimental projects                            | —                                                                                                                  |
+## Selected Projects
 
----
+### GlyphType
 
-## 🌐 Connect With Me
+An open-source project that converts text into scrolling LED animations for the Nothing Phone Glyph Matrix.
 
-**LinkedIn:** [Link](https://www.linkedin.com/in/deepudxd/)
+[View Repository](https://github.com/deepudxd/GlyphType)
 
-**GitHub:** [Link](https://github.com/deepudxd)
+### College FixIt
 
----
+A complaint registration and management system designed for college environments, allowing users to submit and track complaints.
+
+Built with React, TypeScript, Vite, Tailwind CSS, and Firebase.
+
+[View Repository](https://github.com/deepudxd/College-FixIt-Final)
+
+### Developer Portfolio
+
+My personal portfolio showcasing my projects, skills, and work.
+
+[Visit Portfolio](https://deepak-dev.tech)
+
+## Currently Learning
+
+- Advanced JavaScript and TypeScript
+- Full-stack application architecture
+- Backend development and APIs
+- Database design
+- Deployment and cloud infrastructure
+- AI and automation
+
+## Connect
+
+[GitHub](https://github.com/deepudxd) · [LinkedIn](https://www.linkedin.com/in/deepudxd) · [Portfolio](https://deepak-dev.tech)
